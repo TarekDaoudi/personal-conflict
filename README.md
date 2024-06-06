@@ -1,4 +1,4 @@
-# personal-conflict
+# personal-conflict REMOTE
 
 Bien sûr ! Voici une courte histoire inspirée du style de l'auteur Robert Greene :
 
